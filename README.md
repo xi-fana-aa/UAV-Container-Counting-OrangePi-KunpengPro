@@ -10,8 +10,9 @@
 > ├── new_qt.py	    # 基于 PyQt5 的交互界面
 > └── best.om	    # 已转换好的昇腾 OM 模型文件（由 YOLOv8n 训练权重转化而来） 
 ```
-
+## 识别情况
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTkxMDk0MzEsLTg1MDE0MTA3Ml19
+eyJoaXN0b3J5IjpbMjA4NDQ3Nzk0LC0xMjk5MTA5NDMxLC04NT
+AxNDEwNzJdfQ==
 -->
