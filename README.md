@@ -15,7 +15,3 @@
 ![检测结果](/imgs/2025-09-24/gDBQcbeku5oB5IIJ.png)
 Qt界面：
 ![Qt界面](/imgs/2025-09-24/nVnBTH8ZWhBeEI27.png)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjI4OTQwNywtMTI5OTEwOTQzMSwtOD
-UwMTQxMDcyXX0=
--->
