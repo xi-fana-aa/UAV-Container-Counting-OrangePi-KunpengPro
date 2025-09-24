@@ -11,8 +11,9 @@
 > └── best.om	    # 已转换好的昇腾 OM 模型文件（由 YOLOv8n 训练权重转化而来） 
 ```
 ## 结果展示
-![输入图片说明](/imgs/2025-09-24/gDBQcbeku5oB5IIJ.png)
+![检测结果](/imgs/2025-09-24/gDBQcbeku5oB5IIJ.png)
+![输入图片说明](/imgs/2025-09-24/nVnBTH8ZWhBeEI27.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyODA4MDc5LC0xMjk5MTA5NDMxLC04NT
+eyJoaXN0b3J5IjpbLTE4OTEyMTgyLC0xMjk5MTA5NDMxLC04NT
 AxNDEwNzJdfQ==
 -->
