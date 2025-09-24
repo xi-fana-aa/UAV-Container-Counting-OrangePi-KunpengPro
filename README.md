@@ -15,6 +15,3 @@
 ![检测结果](/imgs/result.png)
 Qt界面：
 ![Qt界面](/imgs/qt.png)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MjAwODY1MywtNjA2Mjg5NDA3XX0=
--->
